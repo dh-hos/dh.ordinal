@@ -1,7 +1,7 @@
 ---
 name: Ghi nhận lỗi
 about: Describe this issue template's purpose here.
-title: 'Lỗi- '
+title: 'Lỗi - '
 labels: ''
 assignees: lequocthong29
 
